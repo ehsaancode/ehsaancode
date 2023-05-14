@@ -2,7 +2,7 @@
 ### Hi there, I'm Ehsaan 👋
 <p align="left">
 
-🌱 &nbsp;Learning something new everyday
+🌱 &nbsp; I'm learning something new everyday
 
 🔗 &nbsp;**Connect with me:**
   
