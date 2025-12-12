@@ -12,7 +12,7 @@
 🔗 &nbsp;**Connect with me:**
   
 <a href="https://linkedin.com/in/linked2ehsaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ehsaan" height="30" width="40" /></a>
-<a href="https://instagram.com/___ehsaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ehsaan" height="30" width="40" /></a>
+<a href="https://instagram.com/ehsaan.zip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ehsaan" height="30" width="40" /></a>
 <a href="https://youtube.com/ehsaanCreations" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ehsaan" height="30" width="40" /></a>
   
   
