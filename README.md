@@ -2,7 +2,7 @@
 ### Hi there, I'm Ehsaan 👋
 <p align="left">
 
-🌱  I'm learning something new everyday. </br>
+🌱  Making mistakes </br>
 💻  MERN Stack Developer.
   
   
