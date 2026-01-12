@@ -2,8 +2,7 @@
 ### Hi there, I'm Ehsaan 👋
 <p align="left">
 
-🌱  Making mistakes </br>
-💻  MERN Stack Developer.
+💻 Making mistakes </br>
   
   
   
